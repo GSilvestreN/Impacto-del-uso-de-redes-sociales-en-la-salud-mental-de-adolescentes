@@ -2,6 +2,7 @@
  Analizando cómo las redes sociales afectan el estrés, la ansiedad y el sueño.
 ## Estructura del repositorio
 
+'''
 tarea_streamlit/
 ├── app.py
 ├── data/
@@ -9,3 +10,4 @@ tarea_streamlit/
 ├── requirements.txt
 ├── README.md
 └── evidencias/
+'''
